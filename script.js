@@ -67,6 +67,6 @@ function ModuleList (module) {
 ReactDOM.render(
   // for tag take function name
   <ModuleList list={myAssignments}
-  message1="My Six Favorite Assignments from 50C" message2="Click on the image to go to the site." />,
+  message1="My Eight Favorite Assignments from 50C" message2="Click on the image to go to the site." />,
   document.getElementById('myAssignment')
 );
